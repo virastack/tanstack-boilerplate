@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./public/hero.jpg" alt="Vira Stack TanStack Boilerplate" />
+  <img src="./public/tanstack.jpg" alt="Vira Stack TanStack Boilerplate" />
 </div>
 
 <br />
